@@ -1,0 +1,16 @@
+(Start each line with #)
+-Name of the bow
+-The weight of the bow (kg)
+-The potential  energy Ep
+-Mass effeciency konstant k
+
+#Non-effiecient 35lb 40%, 	4.67, 21.84,  0.07
+#All-Failbow 30lb 50%, 		6.67, 23.28,  0.06
+#No-power 25lb 60%, 		4.67, 23.31,  0.05
+#Heavy 35lb 60%, 		7.58, 32.76,  0.06
+#Longbow 35lb 70%, 		1.2,  38.22,  0.04
+#Recurve 35lb 85%, 		2.0,  46.41,  0.03
+#Recurve 45lb 90%, 		2.2,  63,     0.03
+#Longbow 50lb 80%, 		1.0,  62.16,  0.04
+#Recurve 55lb 80%, 		1.5,  68.6,   0.03
+#Compound 70lb 70%, 		2.6,  76.2,   0.01

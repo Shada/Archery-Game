@@ -1,0 +1,12 @@
+(Start each line with #)
+-Name of the arrow
+-The weight of the arrow (kg)
+-The air resistance 
+-Arrow constant c
+
+#Wood1, 	0.023, 0.0000058, 0.03
+#Wood2,		0.020, 0.00000498, 0.03
+#Aluminium1, 	0.024, 0.0000025, 0.55
+#Aluminium2, 	0.028, 0.0000026, 0.55
+#Carbonfiber1,	0.015, 0.0000015, 0.09
+#Carbonfiber2,	0.017, 0.00000089, 0.09
